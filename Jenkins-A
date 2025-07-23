@@ -1,2 +1,4 @@
 Agent any
 stages:
+stage:
+  pull code and test
